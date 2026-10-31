@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "name": "ShopSmart Phone X1",
+    "category": "mobile",
+    "brand": "ShopSmart",
+    "specs": {
+      "processor": "Snapdragon 7 Gen",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "display": "AMOLED"
+    },
+    "rating": 4.3,
+    "warranty": "1 year",
+    "warranty_coverage": [
+      "Manufacturing defects",
+      "Hardware defects"
+    ],
+    "warranty_exclusions": [
+      "Physical damage",
+      "Water damage",
+      "Unauthorized repair"
+    ],
+    "warranty_claim_steps": [
+      "Keep your invoice",
+      "Contact the seller or manufacturer",
+      "Visit an authorized service centre"
+    ],
+    "offers": [
+      {
+        "seller": "ShopSmart Store",
+        "price": 14999,
+        "delivery_days": 3,
+        "stock": true
+      },
+      {
+        "seller": "Demo Electronics",
+        "price": 15499,
+        "delivery_days": 2,
+        "stock": true
+      },
+      {
+        "seller": "Mobile World",
+        "price": 14799,
+        "delivery_days": 5,
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "ShopSmart Phone X2",
+    "category": "mobile",
+    "brand": "ShopSmart",
+    "specs": {
+      "processor": "Snapdragon 8 Gen",
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "6000mAh",
+      "display": "AMOLED"
+    },
+    "rating": 4.5,
+    "warranty": "2 years",
+    "warranty_coverage": [
+      "Manufacturing defects",
+      "Hardware defects"
+    ],
+    "warranty_exclusions": [
+      "Physical damage",
+      "Water damage",
+      "Unauthorized repair"
+    ],
+    "warranty_claim_steps": [
+      "Keep your invoice",
+      "Contact the seller or manufacturer",
+      "Visit an authorized service centre"
+    ],
+    "offers": [
+      {
+        "seller": "ShopSmart Store",
+        "price": 17999,
+        "delivery_days": 3,
+        "stock": true
+      },
+      {
+        "seller": "Demo Electronics",
+        "price": 18499,
+        "delivery_days": 2,
+        "stock": true
+      },
+      {
+        "seller": "Mobile World",
+        "price": 17699,
+        "delivery_days": 4,
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "ShopSmart Laptop L1",
+    "category": "laptop",
+    "brand": "ShopSmart",
+    "specs": {
+      "processor": "Intel Core i5",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "battery": "50Wh",
+      "display": "Full HD"
+    },
+    "rating": 4.4,
+    "warranty": "1 year",
+    "warranty_coverage": [
+      "Manufacturing defects",
+      "Hardware defects"
+    ],
+    "warranty_exclusions": [
+      "Physical damage",
+      "Liquid damage",
+      "Unauthorized repair"
+    ],
+    "warranty_claim_steps": [
+      "Keep your invoice",
+      "Register the product if required",
+      "Contact the authorized service centre"
+    ],
+    "offers": [
+      {
+        "seller": "ShopSmart Store",
+        "price": 45999,
+        "delivery_days": 4,
+        "stock": true
+      },
+      {
+        "seller": "Demo Electronics",
+        "price": 44999,
+        "delivery_days": 3,
+        "stock": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "ShopSmart Laptop L2",
+    "category": "laptop",
+    "brand": "ShopSmart",
+    "specs": {
+      "processor": "AMD Ryzen 5",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "battery": "55Wh",
+      "display": "Full HD IPS"
+    },
+    "rating": 4.2,
+    "warranty": "2 years",
+    "warranty_coverage": [
+      "Manufacturing defects",
+      "Hardware defects"
+    ],
+    "warranty_exclusions": [
+      "Physical damage",
+      "Liquid damage",
+      "Unauthorized repair"
+    ],
+    "warranty_claim_steps": [
+      "Keep your invoice",
+      "Register the product if required",
+      "Contact the authorized service centre"
+    ],
+    "offers": [
+      {
+        "seller": "ShopSmart Store",
+        "price": 39999,
+        "delivery_days": 3,
+        "stock": true
+      },
+      {
+        "seller": "Demo Electronics",
+        "price": 40999,
+        "delivery_days": 2,
+        "stock": true
+      }
+    ]
+  }
+]

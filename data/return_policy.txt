@@ -1,0 +1,104 @@
+SHOPSMART - RETURN AND REFUND POLICY
+
+1. RETURN ELIGIBILITY
+
+Customers can return eligible products within 7 days of receiving their order.
+Products must be unused, undamaged, and in their original packaging.
+
+2. NON-RETURNABLE PRODUCTS
+
+The following products cannot be returned:
+- Personal care products.
+- Innerwear and hygiene products.
+- Products marked as non-returnable.
+- Products damaged by the customer.
+
+3. DAMAGED OR DEFECTIVE PRODUCTS
+
+Customers must report damaged or defective products within 48 hours of delivery.
+Photographs or videos may be required as proof.
+
+4. RETURN PROCESS
+
+Customers must provide their Order ID and reason for return.
+The store will verify the request before approving or rejecting it.
+
+5. REFUND POLICY
+
+Approved refunds will be initiated within 5-7 business days
+after the returned product passes inspection.
+
+6. EXCHANGE POLICY
+
+Customers can request an exchange within 7 days of delivery,
+subject to product availability and eligibility.
+
+7. RETURN SHIPPING CHARGES
+
+The store covers return shipping charges for damaged or defective products.
+For other eligible returns, customers are responsible for return shipping.
+
+8. REFUND METHOD
+
+Refunds are generally issued through the original payment method.
+For cash-on-delivery orders, an approved alternative payment method
+may be used.
+
+9. ORDER CANCELLATION
+
+Customers can request cancellation before the order is shipped.
+Once shipped, cancellation may not be available.
+
+10. CUSTOMER SUPPORT
+
+Customers can contact the store's customer support team
+for return-related assistance.
+Why do we need this file?
+If the customer asks:
+
+"How many days do I have to return a product?"
+
+The Agent will search this document and retrieve:
+
+"Customers can return eligible products within 7 days."
+
+The LLM will use this information to generate the answer.
+
+6. Create the Shipping Policy Document
+Create:
+
+data/shipping_policy.txt
+
+text
+
+SHOPSMART - SHIPPING AND DELIVERY POLICY
+
+1. DELIVERY TIME
+
+Standard delivery usually takes 3-7 business days.
+Delivery time depends on the customer's delivery location.
+
+2. SHIPPING CHARGES
+
+Orders above Rs. 999 qualify for free standard shipping.
+Orders below Rs. 999 have a standard shipping fee of Rs. 49.
+
+3. ORDER PROCESSING
+
+Orders are generally processed within 1-2 business days
+after successful order confirmation.
+
+4. ORDER TRACKING
+
+Customers can track their orders using their Order ID.
+The order tracking system displays the latest available status.
+
+5. DELIVERY DELAYS
+
+Delivery may be delayed due to weather conditions,
+transportation issues, public holidays, or other unexpected events.
+
+6. FAILED DELIVERY
+
+If delivery fails because the customer is unavailable,
+the delivery partner may attempt another
